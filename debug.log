@@ -1,0 +1,9 @@
+[0201/130312:INFO:nw_package.cc(175)] "C:\C2\build\nwjs\win32\nw.exe"
+[0201/130342:ERROR:image_metadata_extractor.cc(112)] Couldn't load libexif. 126
+[0314/180522:INFO:nw_package.cc(175)] "C:\Users\kidsw\Desktop\win32\nw.exe"
+[0314/180623:ERROR:image_metadata_extractor.cc(112)] Couldn't load libexif. 126
+[0316/180704:INFO:nw_package.cc(175)] "C:\Users\kidsw\Desktop\win32\nw.exe"
+[1016/143829:INFO:nw_package.cc(175)] "D:\hd_backup\batch files (my attemps, Filed)\Cookie Collector\nw.exe"
+[1016/143831:ERROR:image_metadata_extractor.cc(112)] Couldn't load libexif. 126
+[1016/143901:ERROR:image_metadata_extractor.cc(112)] Couldn't load libexif. 126
+[1016/143933:ERROR:image_metadata_extractor.cc(112)] Couldn't load libexif. 126
